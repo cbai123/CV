@@ -66,6 +66,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Final year project involved helping design and build a hybrid rocket engine. My role was focused on the liquid oxidiser storage and feed system.
 - Worked on several group and solo projects
 
+#### Royal Latin School (01/09/16 to 01/08/2018)
+
+#### A levels
+- Mathematics - A*
+- Physics - A*
+- Chemistry - A*
+- AS Biology - A
+
+#### Royal Latin School (01/09/11 to 01/08/2016)
+
+#### GCSEs
+- 11 A* to B including:
+- Mathematics A*
+- English Language A
+- English Literature A
+
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
