@@ -1,6 +1,5 @@
 ## Christopher Bailey
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 I am a recent graduate from the University of Bath in aerospace engineering, looking to switch to a tech career. During my time at university I engaged in multiple design projects from a table tennis ball launcher to a hybrid rocket engine. The biggest interaction I had with coding was using MATLAB, mainly for data manipulation and plotting. I am excited by the problem solving aspects of tech, and the ability to create something that can be useful and improve the lives of others.
 
 ## Projects
