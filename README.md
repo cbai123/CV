@@ -1,6 +1,7 @@
-## Your Name
+## Christopher Bailey
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a recent graduate from the University of Bath in aerospace engineering, looking to switch to a tech career. During my time at university I engaged in multiple design projects from a table tennis ball launcher to a hybrid rocket engine. The biggest interaction I had with coding was using MATLAB, mainly for data manipulation and plotting. I am excited by the problem solving aspects of tech, and the ability to create something that can be useful and improve the lives of others.
 
 ## Projects
 
@@ -11,15 +12,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Swanbourne House School (2016 to 2018)  
+Junior Kitchen Assisstant
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Cleaning kitchen and dining equipment
+- Setting up dining room for mealtimes and the following day
+- Involved working under time constraints and as part of a team
 
 ## Skills
 
@@ -53,7 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (10/10/22 to dd/mm/23)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +60,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bath (01/10/2018 to 01/08/2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MEng(Hons) Aerospace Engineering
+- 2:1
+- Final year project involved helping design and build a hybrid rocket engine. My role was focused on the liquid oxidiser storage and feed system.
+- Worked on several group and solo projects
 
 #### Any other qualifications
 
@@ -74,4 +73,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Gaming
+Lacrosse
+Football
