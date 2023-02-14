@@ -15,12 +15,14 @@ I love problem solving and the buzz achieved by working things out, software dev
 
 ## Work Experience
 
-Swanbourne House School (2016 to 2018)  
-Junior Kitchen Assisstant
+**Swanbourne House School (2016 to 2018)  
+Junior Kitchen Assistant**
 
-- Cleaning kitchen and dining equipment
-- Setting up dining room for mealtimes and the following day
-- Involved working under time constraints and as part of a team
+Involved working in a team and on my own to set up dining room, serve to children and staff, wash up dishes, and clean cooking spaces.
+- Built confidence in my decision making
+- Helped with working to time constraints
+- Teamwork
+- Problem solving involved in deciding how to tackle tasks quickest
 
 ## Skills
 
