@@ -1,6 +1,6 @@
 ## Chris Bailey
 
-I am a recent graduate from the Makers Academy software bootcamp. Before that I graduated from the University of Bath with an MEng in Aerospace Engineering. During my degree I got to work on multiple design projects, starting from a humble table tennis ball launcher through to my final year project of designing and partially building a hybrid rocket engine. While completing my degree I decided I found much more enjoyment in the brief amount of coding I did. I love problem solving and the buzz achieved by working things out, software development allows me to get that buzz all while producing projects I care about. To be able to start from scratch and finish with something wI can be proud of really drove me to succeed on the Makers course.
+I am a recent graduate from the Makers Academy software bootcamp. Before that I graduated from the University of Bath with an MEng in Aerospace Engineering. During my degree I got to work on multiple design projects, starting from a humble table tennis ball launcher through to my final year project of designing and partially building a hybrid rocket engine. While completing my degree I found much more enjoyment in the brief amount of coding I did. I love problem solving and the buzz achieved by working things out, software development allows me to get that buzz all while producing projects I care about. To be able to start from scratch and finish with something wI can be proud of really drove me to succeed on the Makers course.
 
 ## Projects
 
