@@ -27,7 +27,7 @@ Involved working in a team and on my own to set up dining room, serve to childre
 
 ## Skills
 
-#### My ability to learn and teach myself
+### My ability to learn, and teach myself
 
 I had to teach myself to use structural analysis software. [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis)
 
@@ -39,7 +39,7 @@ I used my housemate’s notes from a module not available to me and the internet
 
 I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
 
-#### Problem Solving
+### Problem Solving
 
 Participating in numerous university engineering projects, both group and solo. Including designing: a table tennis ball launcher, a mechanism for a convertible roof, a section of a aeroplane wing, a hybrid rocket engine (which was partially built), and others.
 
