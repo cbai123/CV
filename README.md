@@ -29,7 +29,7 @@ Involved working in a team and on my own to set up dining room, serve to childre
 
 #### My ability to learn and teach myself
 
-I had to teach myself to use structural analysis software. (Finite Element Analysis FEA)
+I had to teach myself to use structural analysis software. [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis)
 
 I used the software to aid in my final two projects at university. It helped speed up design and testing of parts, and in my final project the analysis was verified using experiments.
 
@@ -37,7 +37,7 @@ In a group project we needed to do structural analysis on parts for the project.
 
 I used my housemate’s notes from a module not available to me and the internet to teach myself how to use the software. I was able to model simple structural problems and verify them with hand calculations to assure I would be capable of using this technique to perform more complex calculations.
 
-I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software I was able to put myself forward. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
+I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
 
 ## Education
 
