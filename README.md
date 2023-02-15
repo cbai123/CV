@@ -98,6 +98,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Gaming  
-Lacrosse  
-Football
+Gaming 🎮  
+Lacrosse 🥍  
+Football ⚽️
