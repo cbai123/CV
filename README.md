@@ -39,6 +39,20 @@ I used my housemate’s notes from a module not available to me and the internet
 
 I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
 
+#### Problem Solving
+
+Participating in numerous university engineering projects, both group and solo. Including designing: a table tennis ball launcher, a mechanism for a convertible roof, a section of a aeroplane wing, a hybrid rocket engine (which was partially built), and others.
+
+I achieved high results on my projects throughout university and graduated with a 2:1
+
+One group project was for a table tennis ball launcher that would be able to change angle up and down using only mechanical parts, i.e. no Arduinos/Raspberry Pis etc. With no outside input after being turned on, this meant that we could not simply reverse the direction of the motor, and the project was too low scale for a gearbox.
+
+I solved the issue of being able to change the angle of the barrel both up and down using only gears.
+
+I found an exotic looking gear that would allow the gear being driven to change direction while the motor kept rotating in the same direction. The exotic looking gear was connected to the motor. It consisted of a small inside gear with a larger ring going around it. The inside gear and the ring each had teeth on opposite halves. The inside gear had teeth facing outwards and the ring had teeth facing inwards. The gear that was attached to the barrel sat between the inner gear and the ring. When it was meshed with the inner gear it would rotate one direction, then when it was meshed with the ring it would reverse direction. Please see this [link](https://www.youtube.com/watch?v=fmA9Vnu33FY) for a visual demonstration of the gear.
+
+The angle changing worked quite well. Unfortunately a consequence of the gear is that it goes faster in one direction than the other, this meant that the angle at which the ball fired strayed from as designed as time went on.
+
 ## Education
 
 #### Makers Academy (10/10/22 to 10/02/23)
