@@ -57,14 +57,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (10/10/22 to dd/mm/23)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (10/10/22 to 10/02/23)
+
+- Used pair programming to solve problems and increase understanding. Involved teamwork and communication.
+- Used TDD to build programs with high test coverage. Aided in planning and understanding program before writing code.
+- Started with Ruby building command line apps, then a Twitter clone and a BnB website.
+- Ruby projects tested with RSpec. Learned to test first, write later. Wrote unit and integration tests, and learned mocking, including mocking API calls.
+- Learned SQL and no SQL database usage. PostgreSQL and MongoDB. Learned methods for one-to-many and many-to-many relationships. And, how to interact with the databases for CRUD purposes.
+- Learned about HTTP requests and responses. How to write and handle them, and how to test HTTP responses.
+- Moved onto Javascript, testing with Jest.
+- Started working with Javascript, began with command line apps. Learned about asynchronous programming. Learned testing with Jest, unit and integration tests, and mocking.
+- Began to work on webpages, handling DOM elements, writing HTML, using Javascript to update the page, and using CSS.
+- Built a Facebook clone website using the MERN stack, included end to end testing using Cypress.
+- Built a website using React Native, Express.js, MongoDB, Node.js and several external APIs, including Google Maps.
 
 #### University of Bath (01/10/2018 to 01/08/2022)
 
