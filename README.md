@@ -27,33 +27,17 @@ Involved working in a team and on my own to set up dining room, serve to childre
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### My ability to learn and teach myself
 
--STAR
--What was the situation/task? (ST)
+I had to teach myself to use structural analysis software. (Finite Element Analysis FEA)
 
--How was the skill used?
+I used the software to aid in my final two projects at university. It helped speed up design and testing of parts, and in my final project the analysis was verified using experiments.
 
--What did you do? (action)
+In a group project we needed to do structural analysis on parts for the project. We needed this as evidence for the final report and to produce pictures of stress in parts.
 
--What was the result?
+I used my housemate’s notes from a module not available to me and the internet to teach myself how to use the software. I was able to model simple structural problems and verify them with hand calculations to assure I would be capable of using this technique to perform more complex calculations.
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software I was able to put myself forward. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
 
 ## Education
 
