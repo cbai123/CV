@@ -10,9 +10,9 @@ I love problem solving and the buzz achieved by working things out, software dev
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| ReelPlaces                   | A webapp that allows users to search for movies filmed in a specific city. They can then see on a map where in the city scenes were filmed. | Javascript, MongoDB, Express.js, React Native, Node.js, Google Maps API, Jest |
-| AceBook                      |  A clone of FaceBook based on a partially complete codebase. Involved having to get up to speed and comfortable with existing codebase. Included posting text and images, comments, reacting to posts, and custom user profile pages | Javascript, MongoDB, Express.js, React, Node.js, Jest, Cypress              |
-| Bank Tech Test               | A command line app allowing a user to keep track of bank deposits, withdrawals, and balance. | Javascript, Jest |
+| [**ReelPlaces**](https://github.com/cbai123/ReelPlaces)                   | A webapp that allows users to search for movies filmed in a specific city. They can then see on a map where in the city scenes were filmed. | Javascript, MongoDB, Express.js, React Native, Node.js, Google Maps API, Jest |
+| [**AceBook**](https://github.com/cbai123/acebook-mern-priceless)                      |  A clone of FaceBook based on a partially complete codebase. Involved having to get up to speed and comfortable with existing codebase. Included posting text and images, comments, reacting to posts, and custom user profile pages | Javascript, MongoDB, Express.js, React, Node.js, Jest, Cypress              |
+| [**Bank Tech Test**](https://github.com/cbai123/bank_tech_test)               | A command line app allowing a user to keep track of bank deposits, withdrawals, and balance. | Javascript, Jest |
 
 ## Work Experience
 
