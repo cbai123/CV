@@ -10,8 +10,9 @@ I love problem solving and the buzz achieved by working things out, software dev
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| ReelPlaces                   | A webapp that allows users to search for movies filmed in a specific city. They can then see on a map where in the city scenes were filmed. | Javascript, MongoDB, Express.js, React Native, Node.js, Google Maps API, Jest |
+| AceBook                      |  A clone of FaceBook based on a partially complete codebase. Involved having to get up to speed and comfortable with existing codebase. Included posting text and images, comments, reacting to posts, and custom user profile pages | Javascript, MongoDB, Express.js, React, Node.js, Jest, Cypress              |
+| Bank Tech Test               | A command line app allowing a user to keep track of bank deposits, withdrawals, and balance. | Javascript, Jest |
 
 ## Work Experience
 
