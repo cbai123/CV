@@ -29,29 +29,41 @@ Involved working in a team and on my own to set up dining room, serve to childre
 
 ### My ability to learn, and teach myself
 
-I had to teach myself to use structural analysis software. [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis)
+In a group project, structural analysis was needed to provide evidence for the final report and to produce pictures of stress in parts.
 
-I used the software to aid in my final two projects at university. It helped speed up design and testing of parts, and in my final project the analysis was verified using experiments.
+I had to teach myself how to use structural analysis software [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis) as it was not covered in my modules.
+ 
+#### What did I do?
+- I used my housemate's notes from a module not available to me and the internet to teach myself how to use the software.
+- I modeled simple structural problems and verified them with hand calculations to ensure I could perform more complex calculations.
+- I then modeled all required parts and performed necessary structural analysis for the group project.
 
-In a group project we needed to do structural analysis on parts for the project. We needed this as evidence for the final report and to produce pictures of stress in parts.
-
-I used my housemate’s notes from a module not available to me and the internet to teach myself how to use the software. I was able to model simple structural problems and verify them with hand calculations to assure I would be capable of using this technique to perform more complex calculations.
-
-I modelled all required parts and performed the needed structural analysis for the team. I was also then able to use these skills in a project the following year when the team needed someone who knew how to use the software. I achieved strong results on my reports that included results from the analysis. In my final project the part was a pressure chamber which we were able to have built and assembled, we then performed pressure testing on the part which verified my results from the structural analysis.
+#### What was the result?
+- The group project was successful, and we achieved strong results on reports that included results from the analysis.
+- I was able to use these skills in a project the following year when the team needed someone with expertise in the software.
+- In my final project, the part was a pressure chamber that was built and assembled, and we performed pressure testing on the part which verified my results from the structural analysis.
 
 ### Problem Solving
 
-Participating in numerous university engineering projects, both group and solo. Including designing: a table tennis ball launcher, a mechanism for a convertible roof, a section of a aeroplane wing, a hybrid rocket engine (which was partially built), and others.
+I participated in numerous university engineering projects, both group and solo. Including designing: a table tennis ball launcher, a mechanism for a convertible roof, a section of an aeroplane wing, a hybrid rocket engine (which was partially built), and others.
 
 I achieved high results on my projects throughout university and graduated with a 2:1
 
-One group project was for a table tennis ball launcher that would be able to change angle up and down using only mechanical parts, i.e. no Arduinos/Raspberry Pis etc. With no outside input after being turned on, this meant that we could not simply reverse the direction of the motor, and the project was too low scale for a gearbox.
+One group project was to design a hybrid rocket engine with two other students.
+I was responsible for designing a system to deliver oxidiser to the engine.
 
-I solved the issue of being able to change the angle of the barrel both up and down using only gears.
+I had to design a part that would fit into the combustion chamber, but the space available was very limited and could not be changed.
 
-I found an exotic looking gear that would allow the gear being driven to change direction while the motor kept rotating in the same direction. The exotic looking gear was connected to the motor. It consisted of a small inside gear with a larger ring going around it. The inside gear and the ring each had teeth on opposite halves. The inside gear had teeth facing outwards and the ring had teeth facing inwards. The gear that was attached to the barrel sat between the inner gear and the ring. When it was meshed with the inner gear it would rotate one direction, then when it was meshed with the ring it would reverse direction. Please see this [link](https://www.youtube.com/watch?v=fmA9Vnu33FY) for a visual demonstration of the gear.
+#### What did I do?
+- Redesigned the part to make it smaller, which affected its performance but allowed it to fit into the combustion chamber.
+- Requested that another part of the combustion chamber be modified slightly to accommodate the redesigned part.
+- Assembled the combustion chamber and tested it to make sure it could handle the pressure it would be under.
 
-The angle changing worked quite well. Unfortunately a consequence of the gear is that it goes faster in one direction than the other, this meant that the angle at which the ball fired strayed from as designed as time went on.
+#### What was the result?
+- Successfully designed a part that could fit into the combustion chamber without making major changes to the design.
+- Tested the combustion chamber and confirmed that it could handle the pressure it would be under.
+- Predicted that the part would work based on computer models.
+- Achieved a high 2:1 in my report and presentation on the project.
 
 ## Education
 
