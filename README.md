@@ -31,7 +31,7 @@ Involved working in a team and on my own to set up dining room, serve to childre
 
 In a group project, structural analysis was needed to provide evidence for the final report and to produce pictures of stress in parts.
 
-I had to teach myself how to use structural analysis software [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis) as it was not covered in my modules.
+I had to teach myself how to use software to perform structural analysis [(Finite Element Analysis, FEA)](https://www.autodesk.co.uk/solutions/finite-element-analysis) as it was not covered in my modules.
  
 #### What did I do?
 - I used my housemate's notes from a module not available to me and the internet to teach myself how to use the software.
